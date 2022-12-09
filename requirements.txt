@@ -1,0 +1,7 @@
+requests
+SQLAlchemy
+psycopg2
+flatten_json
+pandas
+alembic
+numpy
